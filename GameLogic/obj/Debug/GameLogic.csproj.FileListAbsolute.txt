@@ -1,0 +1,5 @@
+C:\Users\Daniel\Desktop\School\C#\6th\A14 Ex6 DanielCohen 201191616 ErezAttar 200145886\GameLogic\bin\Debug\GameLogic.dll
+C:\Users\Daniel\Desktop\School\C#\6th\A14 Ex6 DanielCohen 201191616 ErezAttar 200145886\GameLogic\bin\Debug\GameLogic.pdb
+C:\Users\Daniel\Desktop\School\C#\6th\A14 Ex6 DanielCohen 201191616 ErezAttar 200145886\GameLogic\obj\Debug\GameLogic.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\School\C#\6th\A14 Ex6 DanielCohen 201191616 ErezAttar 200145886\GameLogic\obj\Debug\GameLogic.dll
+C:\Users\Daniel\Desktop\School\C#\6th\A14 Ex6 DanielCohen 201191616 ErezAttar 200145886\GameLogic\obj\Debug\GameLogic.pdb

@@ -1,0 +1,11 @@
+C:\Users\Daniel\Desktop\School\C#\6th\A14 Ex6 DanielCohen 201191616 ErezAttar 200145886\GameConsoleUI\bin\Debug\GameConsoleUI.exe
+C:\Users\Daniel\Desktop\School\C#\6th\A14 Ex6 DanielCohen 201191616 ErezAttar 200145886\GameConsoleUI\bin\Debug\GameConsoleUI.pdb
+C:\Users\Daniel\Desktop\School\C#\6th\A14 Ex6 DanielCohen 201191616 ErezAttar 200145886\GameConsoleUI\bin\Debug\GameLogic.dll
+C:\Users\Daniel\Desktop\School\C#\6th\A14 Ex6 DanielCohen 201191616 ErezAttar 200145886\GameConsoleUI\bin\Debug\GameLogic.pdb
+C:\Users\Daniel\Desktop\School\C#\6th\A14 Ex6 DanielCohen 201191616 ErezAttar 200145886\GameConsoleUI\obj\x86\Debug\GameConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\School\C#\6th\A14 Ex6 DanielCohen 201191616 ErezAttar 200145886\GameConsoleUI\obj\x86\Debug\GameConsoleUI.GameBoardForm.resources
+C:\Users\Daniel\Desktop\School\C#\6th\A14 Ex6 DanielCohen 201191616 ErezAttar 200145886\GameConsoleUI\obj\x86\Debug\GameConsoleUI.GameSettingsForm.resources
+C:\Users\Daniel\Desktop\School\C#\6th\A14 Ex6 DanielCohen 201191616 ErezAttar 200145886\GameConsoleUI\obj\x86\Debug\GameConsoleUI.Properties.Resources.resources
+C:\Users\Daniel\Desktop\School\C#\6th\A14 Ex6 DanielCohen 201191616 ErezAttar 200145886\GameConsoleUI\obj\x86\Debug\GameConsoleUI.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\School\C#\6th\A14 Ex6 DanielCohen 201191616 ErezAttar 200145886\GameConsoleUI\obj\x86\Debug\GameConsoleUI.exe
+C:\Users\Daniel\Desktop\School\C#\6th\A14 Ex6 DanielCohen 201191616 ErezAttar 200145886\GameConsoleUI\obj\x86\Debug\GameConsoleUI.pdb
